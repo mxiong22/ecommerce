@@ -9,7 +9,7 @@ The motivation of this assignment is to build a back-end for an e-commerce site 
 # Usage 
 This application was created by using Javascript, node.js, express.js, sequelize, and insomnia. 
 
-# Feautures 
+# Features 
 - Javascript 
 - Node 
 - Express 
